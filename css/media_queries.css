@@ -1,0 +1,11 @@
+@media only screen and (max-width : 768px) {
+	object{
+		width: 25%;
+	}
+	#graphic0 object{
+    	width: 50%;
+	}
+	#day0, #day1, #day2, #day3, #day4, #day5, #day6{
+		margin-top: 25px;
+	}
+}

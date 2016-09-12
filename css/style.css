@@ -1,0 +1,43 @@
+body {
+	background-color: #FFFFFF;
+	color: #FFFFFF;
+}
+object {
+	width: 100%;
+}
+#temperature {
+	font-size: 7em;
+	text-align: center;
+}
+#description{
+	text-align: center;
+}
+#city{
+	text-align: center;
+}
+#high0, #low0{
+	text-align: center;
+}
+#high1, #high2, #high3, #high4, #high5, #high6{
+	font-weight: 600;
+	text-align: center;
+}
+#low1, #low2, #low3, #low4, #low5, #low6{
+	text-align: center;
+}
+#day0, #day1, #day2, #day3, #day4, #day5, #day6{
+	font-weight: bold;
+	text-align: center;
+}
+#precipitation{
+	text-align: center;
+	font-weight: bold;
+}
+#humidity{
+	text-align: center;
+	font-weight: bold;
+}
+#wind{
+	text-align: center;
+	font-weight: bold;
+}
